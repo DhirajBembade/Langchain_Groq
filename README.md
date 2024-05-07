@@ -1,1 +1,1 @@
-# Langchain_Groq
+# RAG Application using Groq [End-to-End]
